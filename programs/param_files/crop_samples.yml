@@ -1,0 +1,8 @@
+%YAML:1.0
+
+source_dir: ../databases/source/test
+processedData_dir: ../databases/processed
+patches_basename: hand_sample
+continue_crop: 0
+min_patch_size: 20
+crop_bg: 0
